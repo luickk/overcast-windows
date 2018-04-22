@@ -1,0 +1,20 @@
+{
+  "name": "overcast-windows",
+  "version": "1.0.0",
+  "description": "A minimal OverCast Desktop Client",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/MrGrimod/overcast-windows",
+  "keywords": [
+    "OverCast",
+    "Electron",
+    "WebApp",
+    "Windows"
+  ],
+  "author": "MrGrimod",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
