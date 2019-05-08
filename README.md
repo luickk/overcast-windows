@@ -19,6 +19,6 @@ Simple Overcast Desktop Web App written in JS using Electron! :headphones:
 Images
 -------------------
 
-![Login](https://image.ibb.co/j92qRx/login.png)
+![Login](media/1.png)
 
-![OverCast](https://image.ibb.co/eHaYeH/cast.png)
+![OverCast](media/2.png)
